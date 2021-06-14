@@ -6,10 +6,10 @@
 
 const int button_hold_threshold = 500;
 
-const int Button_2_pin = 6;    // upper LH button
-const int Button_3_pin = 7;    // upper LH button
-const int Button_4_pin = 9;    // upper LH button
-const int Button_5_pin = 8;    // upper LH button
+const int Button_2_pin = 6;    // Left/F1 button
+const int Button_3_pin = 7;    // Rright/ESCbutton
+const int Button_4_pin = 9;    // UP/Return button
+const int Button_5_pin = 8;    // Down/Change-Window button
 
 const char Button_2_press_key = KEY_LEFT_ARROW;           // Pfeil - Links
 const char Button_2_hold_key = KEY_F1;                    // QuickMenü (F1)
