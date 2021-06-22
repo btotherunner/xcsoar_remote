@@ -13,7 +13,7 @@ const int Button_4_pin = 7;    // UP/Return button
 const int Button_5_pin = 8;    // Down/Change-Window button
 
 const char Button_1_press_key = KEY_RETURN;           // Return
-const char Button_1_hold_key = KEY_RETURN;                    // QuickMenü (F1)
+const char Button_1_hold_key = KEY_ESC;                    // QuickMenü (F1)
 
 const char Button_2_press_key = KEY_LEFT_ARROW;           // Pfeil - Links
 const char Button_2_hold_key = KEY_F1;                    // QuickMenü (F1)
@@ -22,7 +22,7 @@ const char Button_3_press_key = KEY_RIGHT_ARROW;           // Pfeil - Rechts
 const char Button_3_hold_key = KEY_ESC;                   // ESC
 
 const char Button_4_press_key = KEY_UP_ARROW;           // Pfeil - Rechts
-const char Button_4_hold_key = KEY_RETURN;              // Return (Bestätigen)
+const char Button_4_hold_key = KEY_ESC;              // Return (Bestätigen)
 
 const char Button_5_press_key = KEY_DOWN_ARROW;           // Pfeil - Runter
 // const char Button_5_hold_key = KEY_ESC;                   // ESC
