@@ -6,10 +6,14 @@
 
 const int button_hold_threshold = 500;
 
-const int Button_2_pin = 6;    // Left/F1 button
-const int Button_3_pin = 7;    // Rright/ESCbutton
-const int Button_4_pin = 9;    // UP/Return button
+const int Button_1_pin = 5;    // Enter
+const int Button_2_pin = 9;    // Left/F1 button
+const int Button_3_pin = 6;    // Rright/ESCbutton
+const int Button_4_pin = 7;    // UP/Return button
 const int Button_5_pin = 8;    // Down/Change-Window button
+
+const char Button_1_press_key = KEY_RETURN;           // Return
+const char Button_1_hold_key = KEY_RETURN;                    // QuickMenü (F1)
 
 const char Button_2_press_key = KEY_LEFT_ARROW;           // Pfeil - Links
 const char Button_2_hold_key = KEY_F1;                    // QuickMenü (F1)
@@ -22,7 +26,8 @@ const char Button_4_hold_key = KEY_RETURN;              // Return (Bestätigen)
 
 const char Button_5_press_key = KEY_DOWN_ARROW;           // Pfeil - Runter
 // const char Button_5_hold_key = KEY_ESC;                   // ESC
-
+#
+PushButton Button_1 = PushButton(Button_1_pin, ENABLE_INTERNAL_PULLUP);
 PushButton Button_2 = PushButton(Button_2_pin, ENABLE_INTERNAL_PULLUP);
 PushButton Button_3 = PushButton(Button_3_pin, ENABLE_INTERNAL_PULLUP);
 PushButton Button_4 = PushButton(Button_4_pin, ENABLE_INTERNAL_PULLUP);
@@ -30,6 +35,9 @@ PushButton Button_5 = PushButton(Button_5_pin, ENABLE_INTERNAL_PULLUP);
 
 void setup() {
 
+  Button_1.onRelease(0, button_hold_threshold - 1, onButtonReleased);
+  Button_1.onHold(button_hold_threshold, onButtonHeld);
+  
   Button_2.onRelease(0, button_hold_threshold - 1, onButtonReleased);
   Button_2.onHold(button_hold_threshold, onButtonHeld);
 
@@ -48,6 +56,7 @@ void setup() {
 
 
 void loop() {
+  Button_1.update();
   Button_2.update();
   Button_3.update();
   Button_4.update();
@@ -56,6 +65,7 @@ void loop() {
 
 
 void onButtonReleased(Button& btn) {
+  if (btn.is(Button_1)) Keyboard.press(Button_1_press_key);
   if (btn.is(Button_2)) Keyboard.press(Button_2_press_key);
   if (btn.is(Button_3)) Keyboard.press(Button_3_press_key);
   if (btn.is(Button_4)) Keyboard.press(Button_4_press_key);
@@ -64,6 +74,7 @@ void onButtonReleased(Button& btn) {
 }
 
 void onButtonHeld(Button& btn) {
+  if (btn.is(Button_1)) Keyboard.press(Button_1_hold_key);
   if (btn.is(Button_2)) Keyboard.press(Button_2_hold_key);
   if (btn.is(Button_3)) Keyboard.press(Button_3_hold_key);
   if (btn.is(Button_4)) Keyboard.press(Button_4_hold_key);
