@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="13.973307mm"
+   height="10mm"
+   viewBox="0 0 13.973307 10"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="alps_skqu_4_linkscapesvg.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     width="10mm"
+     inkscape:zoom="4"
+     inkscape:cx="31.625"
+     inkscape:cy="55.375"
+     inkscape:window-width="1920"
+     inkscape:window-height="1137"
+     inkscape:window-x="3832"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <sodipodi:guide
+       position="-0.015999999,12.910417"
+       orientation="1,0"
+       id="guide561550" />
+    <sodipodi:guide
+       position="-1.3389167,9.2558592"
+       orientation="0,-1"
+       id="guide561552" />
+    <sodipodi:guide
+       position="-1.0908698,4.6752603"
+       orientation="0,-1"
+       id="guide561554" />
+    <sodipodi:guide
+       position="-1.2727708,2.4428385"
+       orientation="0,-1"
+       id="guide561556" />
+    <sodipodi:guide
+       position="14.006916,12.546614"
+       orientation="1,0"
+       id="guide561558" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-0.016)">
+    <polygon
+       fill="#8c8c8c"
+       points="0.586,11.493 0.586,0.001 3.584,0.001 3.584,11.493 "
+       id="polygon560928"
+       transform="matrix(0,-0.25400001,0.25400001,0,0.015746,1.6544767)" />
+    <polygon
+       fill="#8c8c8c"
+       points="0.586,11.493 0.586,0.001 3.584,0.001 3.584,11.493 "
+       id="polygon560928-6"
+       transform="matrix(0,-0.25400001,0.25400001,0,0.015746,6.2350756)" />
+    <polygon
+       fill="#8c8c8c"
+       points="0.586,11.493 0.586,0.001 3.584,0.001 3.584,11.493 "
+       id="polygon560928-6-4"
+       transform="matrix(0,-0.25400001,0.25400001,0,0.015746,8.4674975)" />
+    <polygon
+       fill="#8c8c8c"
+       points="3.584,0.001 3.584,11.493 0.586,11.493 0.586,0.001 "
+       id="polygon560928-6-4-8"
+       transform="matrix(0,-0.25400001,0.25400001,0,11.070085,1.6544767)" />
+    <polygon
+       fill="#8c8c8c"
+       points="0.586,0.001 3.584,0.001 3.584,11.493 0.586,11.493 "
+       id="polygon560928-6-4-8-8"
+       transform="matrix(0,-0.25400001,0.25400001,0,11.070085,6.2350756)" />
+    <polygon
+       fill="#8c8c8c"
+       points="3.584,0.001 3.584,11.493 0.586,11.493 0.586,0.001 "
+       id="polygon560928-6-4-8-2"
+       transform="matrix(0,-0.25400001,0.25400001,0,11.070085,8.4674975)" />
+    <rect
+       style="fill:#cccccc;fill-rule:evenodd;stroke-width:0.264583"
+       id="rect31"
+       width="10"
+       height="10"
+       x="2.0003753"
+       y="0"
+       rx="0.40000001" />
+    <circle
+       style="fill:#000000;stroke-width:0.264583"
+       id="path325"
+       cx="3.1419001"
+       cy="1.0841848"
+       r="0.75" />
+    <circle
+       style="fill:#000000;stroke-width:0.264583"
+       id="circle429"
+       cx="10.715606"
+       cy="1.166867"
+       r="0.75" />
+    <circle
+       style="fill:#000000;stroke-width:0.264583"
+       id="circle431"
+       cx="10.748678"
+       cy="8.7736378"
+       r="0.75" />
+    <circle
+       style="fill:#000000;stroke-width:0.264583"
+       id="circle433"
+       cx="3.0096083"
+       cy="8.823247"
+       r="0.75" />
+    <circle
+       style="fill:#000000;stroke-width:0.264583"
+       id="path479"
+       cx="7.0003734"
+       cy="5"
+       r="2.5" />
+    <rect
+       style="fill:#333333;stroke-width:0.264602"
+       id="rect503"
+       width="3.1919999"
+       height="3.2576823"
+       x="5.4176908"
+       y="3.3826823"
+       rx="0.40005782" />
+    <path
+       opacity="0.6"
+       fill="#ffffff"
+       enable-background="new    "
+       d="M 7.621077,2.790088 C 7.4803161,2.743098 7.3321467,2.709316 7.1753835,2.694076 6.7854017,2.656738 6.4120148,2.730906 6.092858,2.882544 L 6.053149,2.970936 C 6.4096445,2.807614 6.8248151,2.731922 7.2568771,2.773324 7.3896368,2.786532 7.5188405,2.811932 7.6424138,2.84546 Z"
+       id="path560967"
+       style="stroke-width:0.274354" />
+    <path
+       opacity="0.5"
+       fill="#ffffff"
+       enable-background="new    "
+       d="m 3.0204073,1.1435597 c 0.010414,-0.025908 0.029972,-0.045466 0.058166,-0.050038 L 3.0259953,0.75366966 c -0.020828,0.00381 -0.042164,5.08e-4 -0.06223,0.0066 l -7.62e-4,-0.00178 c -0.125222,0.038608 -0.219456,0.132334 -0.267462,0.25222204 z"
+       id="path560961"
+       style="stroke-width:0.254" />
+    <path
+       opacity="0.5"
+       fill="#ffffff"
+       enable-background="new    "
+       d="m 10.705225,1.1005506 c 0.01041,-0.025908 0.02997,-0.045466 0.05817,-0.050038 l -0.05258,-0.33985204 c -0.02083,0.00381 -0.04216,5.08e-4 -0.06223,0.0066 l -7.62e-4,-0.00178 c -0.125222,0.038608 -0.219456,0.132334 -0.267462,0.25222204 z"
+       id="path560961-5"
+       style="stroke-width:0.254" />
+    <path
+       opacity="0.5"
+       fill="#ffffff"
+       enable-background="new    "
+       d="m 2.9085679,8.7412089 c 0.010414,-0.025908 0.029972,-0.045466 0.058166,-0.050038 l -0.052578,-0.339852 c -0.020828,0.00381 -0.042164,5.08e-4 -0.06223,0.0066 l -7.62e-4,-0.00178 c -0.125222,0.038608 -0.219456,0.132334 -0.267462,0.252222 z"
+       id="path560961-5-0"
+       style="stroke-width:0.254" />
+    <path
+       opacity="0.5"
+       fill="#ffffff"
+       enable-background="new    "
+       d="m 10.787907,8.6419901 c 0.01041,-0.025908 0.02997,-0.045466 0.05817,-0.050038 l -0.05258,-0.339852 c -0.02083,0.00381 -0.04216,5.08e-4 -0.06223,0.0066 l -7.62e-4,-0.00178 c -0.125222,0.038608 -0.219456,0.132334 -0.267462,0.252222 z"
+       id="path560961-5-0-0"
+       style="stroke-width:0.254" />
+  </g>
+</svg>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="11.997822mm"
+   height="9.9998579mm"
+   viewBox="0 0 11.997822 9.9998579"
+   version="1.1"
+   id="svg571959"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs571956" />
+  <g
+     id="layer1"
+     transform="translate(8.3105266e-4)">
+    <g
+       id="silkscreen">
+      <line
+         class="other"
+         x1="0.068606503"
+         y1="0.068606503"
+         x2="11.928384"
+         y2="0.068606503"
+         stroke="#f0f0f0"
+         stroke-width="0.137213"
+         stroke-linecap="round"
+         id="line571911" />
+      <line
+         class="other"
+         x1="0.067775451"
+         y1="9.9294624"
+         x2="11.927549"
+         y2="9.9294624"
+         stroke="#f0f0f0"
+         stroke-width="0.137213"
+         stroke-linecap="round"
+         id="line571911-3" />
+      <line
+         class="other"
+         x1="0.072215997"
+         y1="9.9276419"
+         x2="0.072215997"
+         y2="0.072215997"
+         stroke="#f0f0f0"
+         stroke-width="0.144432"
+         stroke-linecap="round"
+         id="line571917" />
+      <line
+         class="other"
+         x1="11.922216"
+         y1="9.9276371"
+         x2="11.922216"
+         y2="0.072215997"
+         stroke="#f0f0f0"
+         stroke-width="0.144432"
+         stroke-linecap="round"
+         id="line571917-1" />
+    </g>
+    <g
+       id="copper1">
+      <g
+         id="copper0">
+        <circle
+           id="connector0pad"
+           connectorname="P$4"
+           cx="1.0543584"
+           cy="7.9876456"
+           r="0.62699997"
+           stroke="#f7bd13"
+           stroke-width="0.254"
+           fill="none" />
+        <circle
+           id="connector1pad"
+           connectorname="P$4"
+           cx="1.0543586"
+           cy="5.4529409"
+           r="0.62699997"
+           stroke="#f7bd13"
+           stroke-width="0.254"
+           fill="none" />
+        <circle
+           id="connector2pad"
+           connectorname="P$4"
+           cx="1.0543586"
+           cy="2.1539412"
+           r="0.62699997"
+           stroke="#f7bd13"
+           stroke-width="0.254"
+           fill="none" />
+        <circle
+           id="connector3pad"
+           connectorname="P$4"
+           cx="10.954359"
+           cy="2.1539412"
+           r="0.62699997"
+           stroke="#f7bd13"
+           stroke-width="0.254"
+           fill="none" />
+        <circle
+           id="connector4pad"
+           connectorname="P$4"
+           cx="10.954359"
+           cy="5.4529409"
+           r="0.62699997"
+           stroke="#f7bd13"
+           stroke-width="0.254"
+           fill="none" />
+        <circle
+           id="connector5pad"
+           connectorname="P$4"
+           cx="10.954359"
+           cy="7.9876456"
+           r="0.62699997"
+           stroke="#f7bd13"
+           stroke-width="0.254"
+           fill="none" />
+        <path
+           stroke="none"
+           stroke-width="0"
+           d="m 10.200359,1.3999415 h 1.508 v 1.508 h -1.508 z m 0.254,0.754 a 0.5,0.5 0 1 0 1,0 0.5,0.5 0 1 0 -1,0 z"
+           fill="#f7bd13"
+           id="path571887-5-0-2-1-3" />
+        <path
+           stroke="none"
+           stroke-width="0"
+           d="m 10.200359,4.6989415 h 1.508 v 1.508 h -1.508 z m 0.254,0.754 a 0.5,0.5 0 1 0 1,0 0.5,0.5 0 1 0 -1,0 z"
+           fill="#f7bd13"
+           id="path571887-5-0-2-1" />
+        <path
+           stroke="none"
+           stroke-width="0"
+           d="m 10.200359,7.2336461 h 1.508 v 1.508 h -1.508 z m 0.254,0.754 a 0.5,0.5 0 1 0 1,0 0.5,0.5 0 1 0 -1,0 z"
+           fill="#f7bd13"
+           id="path571887-5-0-2" />
+        <path
+           stroke="none"
+           stroke-width="0"
+           d="M 0.30035889,7.2336461 H 1.8083589 v 1.508 H 0.30035889 Z m 0.254,0.754 a 0.5,0.5 0 1 0 1.00000001,0 0.5,0.5 0 1 0 -1.00000001,0 z"
+           fill="#f7bd13"
+           id="path571887-5-0" />
+        <path
+           stroke="none"
+           stroke-width="0"
+           d="M 0.30035889,4.6989415 H 1.8083589 v 1.508 H 0.30035889 Z m 0.254,0.754 a 0.5,0.5 0 1 0 1.00000001,0 0.5,0.5 0 1 0 -1.00000001,0 z"
+           fill="#f7bd13"
+           id="path571887-5" />
+        <path
+           stroke="none"
+           stroke-width="0"
+           d="M 0.30035889,1.3999415 H 1.8083589 v 1.508 H 0.30035889 Z m 0.254,0.754 a 0.5,0.5 0 1 0 1.00000001,0 0.5,0.5 0 1 0 -1.00000001,0 z"
+           fill="#f7bd13"
+           id="path571887" />
+      </g>
+    </g>
+  </g>
+</svg>
